@@ -9,7 +9,7 @@
 
 - 👨‍💻 Portfolio Link- [https://jshu000.github.io/portfolio6/](https://jshu000.github.io/portfolio6/)
 
-- 💬 Ask me about **Android with (Java/Kotlin) ,XML , Jetpack ComposeCompose**
+- 💬 Ask me about **Android with (Java/Kotlin) ,XML ,Jetpack Compose**
 
 - 📫 How to reach me **jashwant999@gmail.com**
 
