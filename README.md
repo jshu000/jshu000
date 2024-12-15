@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jshu000&label=Profile%20views&color=0e75b6&style=flat" alt="jshu000" /> </p>
 
-- 🔭 I’m currently working on **Jio**
+- 🔭 I’m currently working as an Android Developer in **Jio**
 
-- 🌱 I’m currently learning **Dagger 2 , HILT**
+- 👨‍💻 Live Project Published on PlayStore/JioStore- [Store]([https://jshu000.github.io/portfolio6/](https://drive.google.com/drive/folders/1HQkh-LeUk8-PlqzdNCb6LnGhAYNZTsCH?usp=drive_link))
 
 - 👨‍💻 Portfolio Link- [https://jshu000.github.io/portfolio6/](https://jshu000.github.io/portfolio6/)
 
