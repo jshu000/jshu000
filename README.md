@@ -7,11 +7,12 @@
 
 - 👨‍💻 Live Project Published on PlayStore/JioStore- [Live Projects](https://drive.google.com/drive/folders/1HQkh-LeUk8-PlqzdNCb6LnGhAYNZTsCH?usp=drive_link)
 
-- 👨‍💻 Portfolio Link- [https://jshu000.github.io/portfolio6/](https://jshu000.github.io/portfolio6/)
-
 - 💬 Ask me about **Android with (Java/Kotlin) ,XML ,Jetpack Compose**
 
 - 📫 How to reach me **jashwant999@gmail.com**
+
+- 👨‍💻 Portfolio Link- [https://jshu000.github.io/portfolio6/](https://jshu000.github.io/portfolio6/).
+Its Old. I will update this portfolio soon.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
