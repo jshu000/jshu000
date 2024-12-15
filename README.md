@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as an Android Developer in **Jio**
 
-- 👨‍💻 Live Project Published on PlayStore/JioStore- [Store]([https://jshu000.github.io/portfolio6/](https://drive.google.com/drive/folders/1HQkh-LeUk8-PlqzdNCb6LnGhAYNZTsCH?usp=drive_link))
+- 👨‍💻 Live Project Published on PlayStore/JioStore- [Live Projects](https://drive.google.com/drive/folders/1HQkh-LeUk8-PlqzdNCb6LnGhAYNZTsCH?usp=drive_link)
 
 - 👨‍💻 Portfolio Link- [https://jshu000.github.io/portfolio6/](https://jshu000.github.io/portfolio6/)
 
