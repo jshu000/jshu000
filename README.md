@@ -12,7 +12,7 @@
 - 📫 How to reach me **jashwant999@gmail.com**
 
 - 👨‍💻 Portfolio Link- [https://jshu000.github.io/portfolio6/](https://jshu000.github.io/portfolio6/).
-Its Old. I will update this portfolio soon.
+- Its Old. I will update this portfolio soon.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
