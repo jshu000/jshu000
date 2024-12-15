@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as an Android Developer in **Jio**
 
-- 👨‍💻 Live Project Published on PlayStore/JioStore- [Live Projects](https://drive.google.com/drive/folders/1HQkh-LeUk8-PlqzdNCb6LnGhAYNZTsCH?usp=drive_link)
+- 👨‍💻 Live Project Published on PlayStore/JioStore- [Live Projects](https://drive.google.com/drive/folders/1HQkh-LeUk8-PlqzdNCb6LnGhAYNZTsCH?usp=drive_link) Sticky Notes + File Sharing(FTP,SFTP,SMB)App
 
 - 💬 Ask me about **Android with (Java/Kotlin) ,XML ,Jetpack Compose**
 
@@ -17,9 +17,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jashwant000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jashwant000" height="30" width="40" /></a>
+</p>
+<h3 align="left">Coding Profiles:</h3>
+<p align="left">
+<a href="https://auth.geeksforgeeks.org/user/jshu999/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jshu999/profile" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jshu000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jshu000" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jashwant999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jashwant999" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jshu999/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jshu999/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
