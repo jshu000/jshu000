@@ -3,11 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jshu000&label=Profile%20views&color=0e75b6&style=flat" alt="jshu000" /> </p>
 
-- 🔭 I’m currently working as an Android Developer in **Jio**
+- 🔭 I’m currently working as an **Android Developer**, building scalable, high-performance Android applications using **Kotlin, Jetpack Compose, MVVM, Coroutines, Hilt, and Clean Architecture**.
 
-- 👨‍💻 Live Project Published on PlayStore/JioStore- [Live Projects](https://play.google.com/store/apps/details?id=com.andha_coder.firstcompose) 
-- Second Project that is still in Testing phase. https://play.google.com/store/apps/details?id=com.jshu.filetransferclient
-  You can check this App and share the Feedback for improvements .
+- 👨‍💻 **Published Android Applications**
+  
+- 📱 **Featured Project – FTP SFTP Client**
+  A secure file transfer application that supports **FTP, FTPS, SFTP, and SMB** protocols. Built with **Jetpack Compose** and modern Android development practices, it offers seamless file browsing, upload, download, and server management.
+    - **Google Play:** [(https://play.google.com/store/apps/details?id=com.jshu.filetransferclient)](https://play.google.com/store/apps/details?id=com.jshu.filetransferclient)
+    - **JioStore:** Contributed to multiple production Android applications used by millions of users.
+
+  - **Google Play:** [(https://play.google.com/store/apps/details?id=com.andha_coder.firstcompose)](https://play.google.com/store/apps/details?id=com.andha_coder.firstcompose)
+
+
+- 💡 I’m always looking to improve my applications. If you try the app, I'd greatly appreciate your feedback, suggestions, or feature requests to help make it even better.
   
 - 💬 [Google Developer](https://g.dev/Jshu) Profile
 
